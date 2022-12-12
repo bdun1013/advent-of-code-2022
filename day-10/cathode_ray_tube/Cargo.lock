@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rope-bridge"
+name = "cathode_ray_tube"
 version = "0.1.0"
